@@ -1,0 +1,90 @@
+header{
+
+background-color: aqua;
+height: 100px;
+width: 1000x;
+border-radius: 10px;
+margin-bottom: 20px;
+font-family: 'Lora', serif;
+font-size: 30px;
+border-style: ridge;
+border-width: 5px;
+border-color: rgb(6, 26, 43);
+padding: 10px;
+align-self: center;
+
+}
+
+nav{
+
+background-color: #56cb79;
+height: 50px;
+width: 1000px;
+border-radius: 10px;
+margin-bottom: 20px;
+font-family: 'Lora', serif;
+font-size: 20px;
+border-style: ridge;
+border-width: 5px;
+border-color: rgb(6, 26, 43);
+padding: 10px;
+}
+
+#container{
+display: flex;
+margin-bottom: 20px;
+border-radius: 10px;
+font-family: 'Lora', serif;
+align-self: center;
+
+   
+
+}
+
+
+aside{
+  background-color: #fff761;
+  height: 400px;
+ width: 20%;
+ border-radius: 10px;
+ margin-bottom: 20px;
+ font-family: 'Lora', serif;
+  font-size: 20px;
+  border-style: ridge;
+ border-width: 5px;
+ border-color: rgb(6, 26, 43);
+ padding: 10px;
+    
+}
+main{
+    background-color: #f95032;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+     margin-bottom: 20px;
+    font-family: 'Lora', serif;
+    font: size 25px; 
+    border-style: ridge;
+ border-width: 5px;
+ border-color: rgb(6, 26, 43);
+ padding: 10px;
+    
+}
+footer{
+    background-color: #f32976;
+    height: 50px;
+    width: 1000px;
+    border-radius:50% 20%/10% 40%;
+   margin-bottom: 20px;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    border-style: ridge;
+ border-width: 5px;
+ border-color: rgb(6, 26, 43);
+ padding: 10px;
+    
+}
+#wrapper{
+ display: flex;
+
+ }
