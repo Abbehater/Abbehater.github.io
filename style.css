@@ -1,6 +1,6 @@
 header{
 
-background-color: aqua;
+background-color: #eaeaea;
 height: 100px;
 width: 1000x;
 border-radius: 10px;
@@ -17,7 +17,7 @@ align-self: center;
 
 nav{
 
-background-color: #56cb79;
+background-color: #cbc5ea;
 height: 50px;
 width: 1000px;
 border-radius: 10px;
@@ -43,7 +43,7 @@ align-self: center;
 
 
 aside{
-  background-color: #fff761;
+  background-color: #73638a;
   height: 400px;
  width: 20%;
  border-radius: 10px;
@@ -56,8 +56,14 @@ aside{
  padding: 10px;
     
 }
+h1{
+  font-size: larger;
+}
+P{font-style: italic;
+  font-size: medium;
+  }
 main{
-    background-color: #f95032;
+    background-color: #31335a;
     height: 400px;
     width: 80%;
     border-radius: 10px;
@@ -71,7 +77,7 @@ main{
     
 }
 footer{
-    background-color: #f32976;
+    background-color: #183642;
     height: 50px;
     width: 1000px;
     border-radius:50% 20%/10% 40%;
@@ -84,7 +90,5 @@ footer{
  padding: 10px;
     
 }
-#wrapper{
- display: flex;
 
- }
+ 
